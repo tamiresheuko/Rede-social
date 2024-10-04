@@ -3,4 +3,6 @@
 :root{
     --bg-color:#181C14;
     --primary-color:#E7CCCC;
+    --secundary-color:#DA8359;
+    --font:"nunitos sans", sans-serif;
 }
